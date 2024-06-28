@@ -1,0 +1,1 @@
+Runable exe file also available in the realeases may be flagged as a virus bc of pyinstaller feel free to use this wherever you feel free plz give credits to my twitch https://www.twitch.tv/thelostmoonxviii
